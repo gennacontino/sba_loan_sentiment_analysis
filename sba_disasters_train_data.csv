@@ -1,0 +1,198 @@
+Disaster code,Dates,Incident,Climate/N
+FL-00157,09/14/2020,Hurricane Sally,c
+DE-00026,10/02/2020,Tropical Storm Isaias,c
+NY-00198,10/02/2020,Tropical Storm Isaias,c
+VA-00089,10/07/2020,Tropical Storm Isaias,c
+AL-00112,10/09/2020,Hurricane Sally,c
+CA-00328,09/04/2020,Wildfires,c
+LA-00105,10/06/2020,Hurricane Delta,c
+TX-00576,10/27/2020,Rose Hill Apartment Complex Fire,n
+OR-00111,09/07/2020,Wildfires and Straight-line Winds,c
+UT-00078,10/27/2020,Severe Storms and Flooding,c
+NY-00199,08/24/2020,Severe Storms and Flooding,c
+CA-00331,11/25/2020,Wildfires,c
+NC-00120,11/12/2020,Tropical Storm Eta,c
+AL-00115,12/10/2020,Hurricane Zeta,c
+AL-00116,12/10/2020,Hurricane Zeta,c
+NJ-00059,12/11/2020,Tropical Storm Isaias,c
+PA-00108,12/18/2020,Tropical Storm Isaias,c
+OK-00144,12/21/2020,Severe Winter Storm,c
+LA-00108,12/23/2020,Hurricane Delta,c
+CA-00332,12/30/2020,Mountain View Fire,c
+MS-00130,10/28/2020,Hurricane Zeta,c
+MS-00134,12/31/2020,Hurricane Zeta,c
+UT-00079,12/31/2020,Earthquake and Aftershocks,n
+LA-00106,10/26/2020,Hurricane Zeta,c
+UT-00080,01/12/2021,Straight-line Winds,c
+TN-00125,01/28/2021,Explosion,n
+FL-00164,01/28/2021,Tropical Storm Eta,c
+FL-00163,01/28/2021,Hurricane Sally,c
+TX-00578,02/08/2021,Hurricane Laura,c
+WA-00089,02/09/2021,Wildfires and Straight-line Winds,c
+AK-00047,02/17/2021,"Severe Storms, Flooding, Landslides, and Mudslides",c
+TX-00591,02/19/2021,Severe Winter Storms,c
+CO-00130,02/23/2021,Wildfires,c
+OK-00145,02/08/2021,Severe Winter Storms,c
+LA-00109,02/25/2021,Hurricane Zeta,c
+NC-00124,03/03/2021,Tropical Storm Eta,c
+LA-00110,03/09/2021,Severe Winter Storms,c
+AL-00118,04/01/2021,Tornado,c
+TN-00127,04/21/2021,Severe Winter Storms,c
+KY-00084,02/27/2021,"Severe Storms, Flooding, Landslides, and Mudslides",c
+AL-00120,04/26/2021,"Severe Storm, Straight-line Winds, and Tornadoes",c
+HI-00062,04/29/2021,"Severe Storms, Flooding, Landslides and Mudslides",c
+MS-00135,02/11/2021,Severe Winter Storms,c
+TN-00126,05/08/2021,"Severe Storms, Tornadoes, and Flooding",c
+WV-00054,05/13/2021,Severe Winter Storms,c
+HI-00063,05/13/2021,"Severe Storms, Flooding, and Landslides",c
+WV-00053,02/27/2021,Severe Storms and Flooding,c
+TX-00599,05/27/2021,Severe Storms and Tornadoes,c
+LA-00113,06/22/2021,Severe Winter Storms,c
+KS-00145,06/28/2021,Flooding,c
+FL-00167,06/29/2021,Surfside Building Collapse,n
+IN-00075,08/18/2023,Severe Storm and Flooding,c
+IL-00064,07/16/2021,Tornado,c
+MI-00099,06/25/2021,"Severe Storms, Flooding, and Tornadoes",c
+GA-00124,07/20/2021,Severe Storms and Tornadoes,c
+FL-00168,07/22/2021,Tropical Storm Elsa,c
+AL-00122,07/22/2021,Tropical Storm Claudette,c
+IL-00065,07/26/2021,Flooding,c
+PA-00111,07/29/2021,Flash Flooding,c
+OK-00150,08/05/2021,Flooding,c
+TX-00605,08/11/2021,"Severe Storms, Straight-line Winds, and Flash Flooding",c
+WA-00097,08/23/2021,Hanover Apartment Complex Fire,n
+IL-00067,08/23/2021,Flooding,c
+TN-00130,08/21/2021,Severe Storm and Flooding,c
+CA-00340,07/14/2021,Wildfires,c
+LA-00115,08/26/2021,Hurricane Ida,c
+PA-00112,08/31/2021,Flash Flooding,c
+TN-00131,09/01/2021,Severe Storm and Flooding,c
+CA-00342,09/02/2021,Beckwourth Complex Fire,n
+NJ-00062,09/01/2021,Remnants of Hurricane Ida,c
+NJ-00063,09/05/2021,Remnants of Hurricane Ida,c
+NY-00208,09/01/2021,Remnants of Hurricane Ida,c
+NY-00209,09/05/2021,Remnants of Hurricane Ida,c
+LA-00116,09/07/2021,Hurricane Ida,c
+NC-00127,08/16/2021,Remnants of Tropical Storm Fred,c
+NC-00128,09/08/2021,Remnants of Tropical Storm Fred,c
+NY-00204,09/09/2021,Severe Storms and Flooding,c
+NY-00205,09/09/2021,Severe Storms and Flooding,c
+NY-00206,09/09/2021,Severe Storms and Flooding,c
+PA-00113,09/10/2021,Remnants of Hurricane Ida,c
+FL-00169,09/24/2021,Severe Storms and Flooding,c
+ZZ-00012,10/01/2016,Military Reservist Economic Injury Disaster Loan Program,n
+OR-00085,09/19/2022,Severe Storms and Flooding,c
+CA-00276,08/30/2017,Flooding Due to Extreme Snow Melt,c
+WA-00068,04/21/2017,"Severe Winter Storms, Flooding, Landslides, and Mudslides",c
+MS-00101,05/22/2017,"Severe Storms, Tornadoes, Straight-line Winds, and Flooding",c
+MO-00081,06/02/2017,"Severe Storms, Tornadoes, Straight-line Winds, and Flooding",c
+OK-00114,06/06/2017,"Tornadoes, Straight-line Winds, Flooding and Severe Storms",c
+MS-00100,06/12/2017,"Severe Weather including Tornadoes, Straight-line Winds, Torrential Rain, Lightning and Flooding",c
+WI-00058,06/12/2017,Tornado,c
+IN-00060,5/20/2017,Severe Storms and Flooding,c
+NC-00093,06/14/2017,Severe Storms,c
+IN-00061,10/06/2023,Glacier Outburst Flooding,n
+TN-00103,06/16/2017,Severe Thunderstorms with Damaging Winds,c
+AR-00094,04/26/2017,"Severe Storms, Tornadoes, Straight-line Winds, and Flooding",c
+TX-00482,06/20/2017,Severe Storms,c
+TN-00105,06/23/2017,"Severe Storms, Straight-line Winds, and Flooding",c
+CO-00077,06/30/2017,Hailstorm,c
+NE-00067,07/03/2017,"Storms, Tornadoes and Extremely High Winds",c
+TX-00484,07/26/2017,"Severe Storms, Straight-line Winds, Hail and Flooding.",c
+AL-00081,06/21/2017,Tropical Storm Cindy with Tornado and Flooding,c
+CA-00275,08/11/2017,Detwiler Fire,c
+MI-00058,08/02/2017,Severe Storms and Flooding,c
+IA-00071,08/03/2017,"Severe Weather, Tornadoes, High Winds, Heavy Rains, Flash Flooding and Riverine Flooding",c
+CO-00078,08/10/2017,"Severe Thunderstorm, Hail, Straight-line Winds and Tornadoes",c
+KY-00065,08/15/2017,"Torrential Rains, Flash Flooding and Mudslides",c
+LA-00078,08/04/2017,Torrential Rainfall and Flooding,c
+WV-00046,07/28/2017,"Severe Storms, Flooding, Landslides, and Mudslides",c
+OK-00117,08/05/2017,"Tornadoes, Severe Storms, Straight-line Winds and Flooding",c
+TN-00106,05/27/2017,Severe Thunderstorms with Damaging Winds,c
+TX-00485,6/30/2017,"Severe Storms, Straight-line Winds, Heavy Rains, Hail and Flooding",c
+TX-00487,08/25/2017,Hurricane Harvey,c
+TX-00488,09/04/2017,Hurricane Harvey,c
+VI-00009,09/05/2017,Hurricane Irma,c
+HI-00041,09/11/2017,Marco Polo Fire,n
+PR-00029,09/10/2017,Hurricane Irma,c
+FL-00130,09/04/2017,Hurricane Irma,c
+IL-00050,09/15/2017,Severe Storms and Flooding,c
+WI-00061,09/18/2017,Heavy Rains and Flash Flooding,c
+VI-00010,09/15/2017,Hurricane Irma,c
+GA-00100,09/07/2017,Hurricane Irma,c
+VI-00011,09/16/2017,Hurricane Maria,c
+PR-00031,09/20/2017,Hurricane Maria,c
+FL-00131,09/21/2017,Hurricane Irma,c
+CA-00277,09/26/2017,Helena Fire,c
+FL-00132,09/27/2017,Hurricane Irma,c
+GA-00101,09/28/2017,Hurricane Irma,c
+AK-00043,10/01/2019,McKinley Wildland Fire,c
+TX-00525,10/04/2019,Tropical Storm Imelda,c
+IL-00058,10/10/2019,Severe Storms and Flooding,c
+NC-00111,10/16/2019,Hurricane Dorian,c
+FL-00146,10/21/2019,Hurricane Dorian,c
+CA-00309,10/25/2019,Sandalwood Fire,c
+FL-00147,11/13/2019,Tornadoes as a result of Tropical Storm Nestor,c
+IL-00054,11/14/2019,Severe Storms and Flooding,c
+TX-00528,11/14/2019,"Severe Storms, Straight-line Winds, Hail and Tornado",c
+SD-00098,09/09/2019,"Severe Storms, Tornadoes, and Flooding",c
+SD-00099,11/18/2019,"Severe Storms, Tornadoes, and Flooding",c
+MS-00113,11/19/2019,Flash Flooding,c
+PA-00103,12/11/2019,Severe Storms and High Winds,c
+TN-00116,12/17/2019,Severe Storms associated with the remnants of Tropical Storm Olga,c
+MS-00116,12/30/2019,Tropical Storm Olga,c
+TX-00536,12/30/2019,Petrochemical Plant Explosion,n
+TX-00537,12/31/2019,Sable Ridge Condominium Complex Fire,n
+PR-00034,01/16/2020,Earthquakes,n
+MS-00118,01/28/2020,Severe Weather and Tornado,c
+MS-00120,02/06/2020,Severe Weather and Tornadoes,c
+LA-00100,02/11/2020,Severe Storms and a Tornado,c
+TX-00542,02/13/2020,Watson Grinding and Manufacturing Facility Explosion,n
+AR-00108,02/21/2020,Severe Storms and Tornadoes,c
+NY-00190,02/25/2020,"Severe Storms, Flooding and Straight-Line Winds",c
+TN-00118,03/05/2020,"Severe Storms, Tornadoes, Straight-line Winds, and Flooding",c
+PR-00035,03/11/2020,Earthquakes,n
+TN-00120,03/24/2020,"Severe Storms, Tornadoes, Straight-line Winds, and Flooding",c
+OR-00100,05/09/2023,"Severe Storms, Straight-line Winds, Flooding, Landslides, and Mudslides",c
+MS-00123,03/12/2020,"Severe Storms, Tornadoes, Straight-line Winds, and Flooding",c
+MS-00124,04/12/2020,"Severe Storms, Tornadoes, Straight-line Winds, and Flooding",c
+MS-00125,04/23/2020,"Severe Storms, Flooding, and Mudslides",c
+KY-00081,04/24/2020,"Severe Storms, Flooding, Landslides, and Mudslides",c
+TN-00121,04/24/2020,"Severe Storms, Tornadoes, Straight-line Winds, and Flooding",c
+TN-00122,04/24/2020,"Severe Storms, Tornadoes, Straight-line Winds, and Flooding",c
+SC-00071,05/01/2020,"Severe Storms, Tornadoes, and Straight-line Winds",c
+MS-00127,05/08/2020,"Severe Storms, Tornadoes, Straight-line Winds, and Flooding",c
+LA-00102,05/13/2020,Severe Storms and Tornadoes,c
+AR-00112,05/21/2020,"Severe Storms, Tornadoes and Straight-line Winds",c
+MS-00126,05/21/2020,Severe Storms and Tornado,c
+GA-00117,05/21/2020,"Thunderstorms, Excessive Rainfall, and Tornadoes",c
+PA-00105,05/22/2020,Apartment Complex Fire,n
+TX-00550,06/01/2020,Severe Storms and Tornadoes,c
+KY-00079,06/01/2020,"Severe Storms, Flooding, Flash Flooding, Landslides and Mudslides",c
+AR-00113,06/17/2020,Severe Storms and Straight-line Winds,c
+CA-00319,06/17/2020,Civil Unrest,n
+TX-00557,06/23/2020,"Severe Storms, Flooding and a Tornado",c
+IL-00060,06/23/2020,Civil Unrest,n
+MI-00085,06/29/2020,Severe Storms and Flooding,c
+MI-00084,07/09/2020,Severe Storms and Flooding,c
+MI-00086,07/09/2020,Severe Storms and Flooding,c
+UT-00068,07/09/2020,Earthquake and Aftershocks,n
+TN-00123,07/09/2020,"Severe Storms, Straight-line Winds, and Flooding",c
+MS-00129,07/09/2020,"Severe Storms, Tornadoes, Straight-line Winds, and Flooding",c
+AR-00115,07/10/2020,Severe Storms and Straight-line Winds,c
+OH-00079,07/20/2020,Severe Storms and Flooding,c
+CA-00324,07/27/2020,Niland Fire,c
+MN-00081,08/03/2020,Civil Unrest,n
+WI-00073,08/04/2020,Severe Storms and Flooding,c
+PA-00106,08/07/2020,Civil Unrest,n
+TN-00124,08/07/2020,Flooding,c
+IN-00074,08/21/2023,"Wildfires, including High Winds",c
+FL-00156,08/13/2020,Flash Flooding,c
+PA-00107,08/17/2020,Apartment Complex Fire,n
+IA-00093,08/17/2020,Severe Storms,c
+MO-00106,08/19/2020,"Severe Storms, Flooding and Flash Flooding",c
+IL-00061,08/19/2020,Severe Storms and Flash Flooding,c
+NC-00117,08/20/2020,Hurricane Isaias,c
+IA-00092,08/20/2020,Severe Storms,c
+CA-00325,08/14/2020,Wildfires,c
+NC-00118,08/27/2020,Earthquake,n
