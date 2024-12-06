@@ -1,2 +1,4 @@
 # sba_loan_sentiment_analysis
-Which SBA disaster loans are tied to a climate event
+Determining if an SBA disaster loan is tied to a climate event based on the sentiment of the incident listed with each code
+
+My goal was to figure out how many Small Business Association disaster loans are associated with severe weather. I did this by initially combining the CSVs containing all the SBA loan data, pulling each unique disaster loan code and scraping the Federal Register to pull the associated incident for each code. After using regex to identify and pull the date and incident associated with each disaster loan, I put everything together in a DataFrame and exported it as a CSV. I then manually added a sentiment column (titled "Climate/N" in the attached CSV) to differentiate climate events from non-climate related events. I used this annotated data to train a classifier and then run it on a CSV without the sentiment column. The classifier correctly annotated each incident and noted the sentiment in a newly created column. 
